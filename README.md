@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ferdous Hasan Akash</h1>
-<h3 align="center">Graduate of Computer Science and Engineering from North South University. A passionate learner & developer. I love technology</h3>
+<h3 align="center">Graduate of Computer Science and Engineering from North South University. A passionate learner & developer. I love technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferdousakash&label=Profile%20views&color=0e75b6&style=flat" alt="ferdousakash" /> </p>
 
